@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GWA-OAuth1/static/css/main.3c9b6761.css",
+    "main.js": "/GWA-OAuth1/static/js/main.37f9ce40.js",
+    "static/js/787.6b28b120.chunk.js": "/GWA-OAuth1/static/js/787.6b28b120.chunk.js",
+    "static/media/logo.svg": "/GWA-OAuth1/static/media/logo.a119f4517a3b711f58fba23ca0b7e13d.svg",
+    "index.html": "/GWA-OAuth1/index.html",
+    "main.3c9b6761.css.map": "/GWA-OAuth1/static/css/main.3c9b6761.css.map",
+    "main.37f9ce40.js.map": "/GWA-OAuth1/static/js/main.37f9ce40.js.map",
+    "787.6b28b120.chunk.js.map": "/GWA-OAuth1/static/js/787.6b28b120.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c9b6761.css",
+    "static/js/main.37f9ce40.js"
+  ]
+}
